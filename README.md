@@ -53,4 +53,4 @@ Spotify Offline was created by [NeoTR]. Special thanks to the following librarie
 - [YouTube Data API](https://developers.google.com/youtube/v3)
 
 ## Preview
-[](https://i.imgur.com/ZD9Su6t.png)
+![Site](https://i.imgur.com/ZD9Su6t.png)
