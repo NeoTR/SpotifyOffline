@@ -47,7 +47,7 @@ If you would like to contribute to Spotify Offline, please follow these steps:
 
 ## Credits
 
-Spotify Offline was created by [@NeoTR]. Special thanks to the following libraries and APIs:
+Spotify Offline was created by @NeoTR. Special thanks to the following libraries and APIs:
 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [YouTube Data API](https://developers.google.com/youtube/v3)
