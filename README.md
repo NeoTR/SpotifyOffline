@@ -23,7 +23,8 @@ To install Spotify Offline, follow these steps:
 }
 ```
 
-4. Run the command `npm start` to start the application.
+4. Run the command `node .` to start the application.
+5. Repeat for the frontend too but use `npm run dev` or `npm run build` to build the frontend.
 
 ## Usage
 
