@@ -1,6 +1,6 @@
 # Spotify Offline
 
-Spotify Offline is a Node.js application that allows you to download your favorite Spotify playlists and listen to them offline. The application uses the Spotify Web API to authenticate with your Spotify account and download your playlists as one MP3 file. It uses React with Tailwind Css for the frontend.
+Spotify Offline is a Node.js application that allows you to download your favorite Spotify playlists and listen to them offline. The application uses the Spotify Web API to authenticate with your Spotify account and download your playlists as one MP3 file. It uses React with Tailwind CSS for the frontend.
 
 ## Installation
 
