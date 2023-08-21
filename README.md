@@ -10,7 +10,7 @@ This is open-source but if you want to access the published and live projects th
 To install Spotify Offline, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running the command `npm install`.
+2. Install the required dependencies by running the command `npm install` and install **FFMPEG**.
 3. Create a `config.json` file in the root directory of the project and add your Spotify API credentials and YouTube API key. Here's an example `config.json` file:
 
 ```json
