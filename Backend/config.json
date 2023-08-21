@@ -1,0 +1,10 @@
+{
+  "youtubeApiKey": "",
+  "spotify": [
+    {
+      "bearer": "",
+      "clientID": "",
+      "clientSecret": ""
+    }
+  ]
+}

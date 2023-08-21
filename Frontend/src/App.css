@@ -7,6 +7,19 @@
   scroll-behavior: smooth;
 }
 
+html,
+body,
+#root {
+  height: 100vh;
+}
+
 body {
   font-family: "Ubuntu";
+  background: linear-gradient(to top, #044d02, #089910);
+}
+
+.box {
+  background-color: #fff;
+  border-radius: 0.5rem;
+  padding: 2rem;
 }
