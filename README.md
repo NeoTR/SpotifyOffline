@@ -1,6 +1,6 @@
 # Spotify Offline
 
-Spotify Offline is a Node.js application that allows you to download your favorite Spotify playlists and listen to them offline. The application uses the Spotify Web API to authenticate with your Spotify account and download your playlists as MP3 files.
+Spotify Offline is a Node.js application that allows you to download your favorite Spotify playlists and listen to them offline. The application uses the Spotify Web API to authenticate with your Spotify account and download your playlists as MP3 files. It uses React with Tailwind Css for the frontend.
 
 ## Installation
 
@@ -30,10 +30,9 @@ To install Spotify Offline, follow these steps:
 To use Spotify Offline, follow these steps:
 
 1. Open a web browser and navigate to `http://localhost:3000`.
-2. Click the "Login with Spotify" button and authenticate with your Spotify account.
-3. Once you are logged in, you will see a list of your Spotify playlists.
-4. Click the "Download" button next to a playlist to download it as an MP3 file.
-5. The downloaded MP3 files will be saved to the `downloads` directory in the root of the project.
+2. Copy your spotify playlist link into the input field.
+3. Click the "Download" button next to a playlist to download it as an MP3 file.
+4. The downloaded MP3 playlist will be saved to the `downloads` directory on your computer.
 
 ## Contributing
 
@@ -45,13 +44,9 @@ If you would like to contribute to Spotify Offline, please follow these steps:
 4. Push your changes to your forked repository.
 5. Create a pull request to merge your changes into the main repository.
 
-## License
-
-Spotify Offline is licensed under the MIT License. See the `LICENSE` file for more information.
-
 ## Credits
 
-Spotify Offline was created by [Your Name Here]. Special thanks to the following libraries and APIs:
+Spotify Offline was created by [NeoTR]. Special thanks to the following libraries and APIs:
 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [YouTube Data API](https://developers.google.com/youtube/v3)
