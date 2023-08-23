@@ -5,7 +5,7 @@ async function getNames(url) {
   url = url.replace("https://open.spotify.com/playlist/", "https://api.spotify.com/v1/playlists/");
   let allTracks = [];
   const headers = {
-    Authorization: `Bearer ${config.spotify.bearer}`,
+    Authorization: `Bearer ${config.spotify[0].bearer}`,
   };
 
   try {

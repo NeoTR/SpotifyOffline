@@ -37,7 +37,7 @@ function App() {
         playlist.click();
 
         if (response.status === 200) {
-          alert("Your playlist is ready to download. Please check your email.");
+          alert("Your playlist has been downloaded successfully.");
         } else {
           alert("Something went wrong. Please try again.");
         }

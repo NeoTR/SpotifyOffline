@@ -1,10 +1,10 @@
 {
-  "youtubeApiKey": "",
+  "youtubeApiKey": "YOUR_YOUTUBE_API_KEY",
   "spotify": [
     {
       "bearer": "",
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "YOUR_SPOTIFY_CLIENT_ID",
+      "clientSecret": "YOUR_SPOTIFY_CLIENT_SECRET"
     }
   ]
 }
